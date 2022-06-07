@@ -5,4 +5,7 @@ class MoviesController < ApplicationController
     render json: movies
   end
 
+  def create
+  end
+
 end
